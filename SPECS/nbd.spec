@@ -5,7 +5,7 @@
 
 Name:    nbd
 Version: 3.25
-Release: %{?xsrel}.1%{?dist}
+Release: %{?xsrel}.1~XCPNG2698.1%{?dist}
 Summary: Network Block Device user-space tools (TCP version)
 License: GPL-2.0-only
 URL:     https://github.com/NetworkBlockDevice/nbd
